@@ -1,0 +1,28 @@
+.a{color: red;}
+.b{color: blue;}
+.c{color: green;}
+.d{color: orange;}
+.e{color: purple;}
+.f{color: black;}
+
+.turtle {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+table, th, td, tr {
+    width: 30%;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}

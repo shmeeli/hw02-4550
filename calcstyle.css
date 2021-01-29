@@ -1,0 +1,29 @@
+
+table {
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3px solid black;
+}
+#screen {
+    font-size: xxx-large;
+}
+
+td {
+    width: 25%;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+}
+th {
+    border: 3px solid black;
+    height: 120px;
+    width: 100%;
+}
+
+.btn {
+    font-size: xxx-large;
+    height: 100%;
+    width: 100%;
+}
